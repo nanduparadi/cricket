@@ -1,0 +1,7 @@
+{
+  "name": "cricket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
